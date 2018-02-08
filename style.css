@@ -1,0 +1,54 @@
+.card-img-bottom{
+    width: 200px;
+}
+
+#stackoverflow{
+    width: 55px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.jumbotron{
+    background-color: darkcyan;
+}
+.logos{
+    width: 50px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.placeholder{
+    border: 0;
+    margin-left: 35px;
+    width: 300px;
+}
+
+body{
+    margin-bottom: 100px;
+    background-color: rgb(224, 228, 235);
+}
+
+h2{
+    color:#24273D;
+}
+
+.card-img-bottom{
+    float: right;
+}
+
+.fixed-bottom{
+    justify-content: center;
+}
+
+#Cright{
+    color: #ffffff;
+}
+
+.bg-light{
+    background-color: #24273D;
+}
+
+.card-body{
+    width: 100%;
+    justify-content: center;
+}

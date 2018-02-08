@@ -9,7 +9,7 @@
 }
 
 .jumbotron{
-    background-color: darkcyan;
+    background-color: #718BA0;
 }
 .logos{
     width: 50px;
@@ -20,16 +20,17 @@
 .placeholder{
     border: 0;
     margin-left: 35px;
+    margin-bottom: 35px;
     width: 300px;
 }
 
 body{
     margin-bottom: 100px;
-    background-color: rgb(224, 228, 235);
+    background-color: #59A1D9;
 }
 
 h2{
-    color:#24273D;
+    color:#1E5C8C;
 }
 
 .card-img-bottom{
@@ -41,14 +42,30 @@ h2{
 }
 
 #Cright{
-    color: #ffffff;
+    color: #1E5C8C;
 }
 
-.bg-light{
+/* .bg-light{
     background-color: #24273D;
-}
+} */
 
 .card-body{
     width: 100%;
     justify-content: center;
+}
+
+.portfoliotextoverlay {
+text-align: align-self: auto;
+position: absolute;
+width: 76.6%;
+color: #ffffff;
+background-color: #1E5C8C;
+z-index: 100;
+padding-left: 105px;
+bottom: 55px;
+left: 50px;
+}
+
+a {
+    color:#ffffff;
 }
